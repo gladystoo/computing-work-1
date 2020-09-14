@@ -3,4 +3,4 @@
 #Can you figure out how to fix it?:)))))
 
 from microbit import*
-display.scroll("Hi,mushroom:))
+display.scroll("Hi,mushroom:)")
